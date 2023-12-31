@@ -6,4 +6,4 @@ Today marks the initiation of my venture into web development, guided by "Progra
 
 ## Links
 
- - https://md-maheen-billah.github.io/Day-1/
+ - Practice task: https://md-maheen-billah.github.io/Day-1/
